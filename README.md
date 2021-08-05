@@ -1,0 +1,1 @@
+Trata-se da página recriada do Instagram. Os arquivos listados, fazem parte da aprendizagem do curso de web developer da digitalinnovation, onde fomos desafiados a recriar o instagram. Ao meu projeto, além de recriar a página, adicionei 2 botões para acesso rápido ao Facebook e Whatsapp. 
